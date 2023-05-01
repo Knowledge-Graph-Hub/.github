@@ -7,4 +7,4 @@ KG-Hub, a platform that provides software development patterns for the standardi
 
 ## Quick Links
 - [NEAT-ML](https://github.com/Knowledge-Graph-Hub/neat-ml)
-- [project template](https://github.com/Knowledge-Graph-Hub/kg-template)
+- [KG Cookiecutter Template - use this to start your own KG](https://github.com/Knowledge-Graph-Hub/kg-cookiecutter)
