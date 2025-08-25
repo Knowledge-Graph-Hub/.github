@@ -1,6 +1,12 @@
-## Welcome to Knowledge-Graph-Hub 👋
+## Welcome to the Knowledge Graph Hub!
 
-KG-Hub, a platform that provides software development patterns for the standardized construction, exchange, and reuse of knowledge graphs. Features include a simple, modular extract-transform-load (ETL) pattern for ingest of upstream data in a Biolink-model compliant manner, cached downloads of upstream data, versioned and automatically updated builds, web-browsable storage of KG artifacts on cloud infrastructure, easy reuse of transformed subgraphs of upstream data across different projects, and easy integration of any OBO ontology.
+This is KG-Hub, a platform that provides software development patterns for the standardized construction, exchange, and reuse of knowledge graphs.
+
+Features include:
+* a simple, modular extract-transform-load (ETL) pattern for ingest of upstream data in a BioLink Model compliant manner
+* cached downloads of graph-shaped data,
+* versioned and automatically updated KG builds,
+* and the KG-Registry, a listing of KGs and their source components.
 
 *See our pinned repositories below for quick access to our main code bases, or use the search bar to find a specific code repository.*
 
@@ -8,7 +14,7 @@ KG-Hub, a platform that provides software development patterns for the standardi
 ## Quick Links
 - [KG-Hub Documentation](https://kghub.org/)
 - [KG-Hub files for download](https://kghub.io/)
-- [NEAT-ML](https://github.com/Knowledge-Graph-Hub/neat-ml)
+- [KG Registry - a site describing community KGs and their components](https://kghub.org/kg-registry/)
 - [KG Cookiecutter Template - use this to start your own KG](https://github.com/Knowledge-Graph-Hub/kg-cookiecutter)
 
 ## Publication
